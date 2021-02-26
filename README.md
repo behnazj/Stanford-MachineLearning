@@ -1,3 +1,3 @@
-# Stanford Online ML COURSE
+# Stanford Online ML Course
 
-This repository contains programming assignments. Minor changes maybe needed for newer Matlab version.
+This repository contains soln to programming assignments.
