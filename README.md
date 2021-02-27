@@ -1,3 +1,4 @@
-# Stanford Online ML Course
+# ML Course
 
-This repository contains soln to programming assignments.
+This repository contains programming assignments.
+Last updat 2020-02-28
