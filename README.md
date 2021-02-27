@@ -1,5 +1,5 @@
 # ML Course
 
-This repository contains programming assignments.
+This repository contains MATLAB programming assignments.
 
-Last updat 2020-02-27
+Last updated on 2020-02-27
